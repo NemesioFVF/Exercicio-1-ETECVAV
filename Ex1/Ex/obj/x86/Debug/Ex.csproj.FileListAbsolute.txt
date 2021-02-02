@@ -1,0 +1,11 @@
+C:\Users\etecvav\Desktop\Ex\Ex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\etecvav\Desktop\Ex\Ex\bin\Debug\Ex.exe
+C:\Users\etecvav\Desktop\Ex\Ex\bin\Debug\Ex.pdb
+C:\Users\etecvav\Desktop\Ex\Ex\obj\x86\Debug\Ex.exe
+C:\Users\etecvav\Desktop\Ex\Ex\obj\x86\Debug\Ex.pdb
+D:\Etec\C#\10-02-2014\Ex\Ex\obj\x86\Debug\Ex.exe
+D:\Etec\C#\10-02-2014\Ex\Ex\obj\x86\Debug\Ex.pdb
+D:\Etec\C#\10-02-2014\Ex\Ex\bin\Debug\Ex.exe
+D:\Etec\C#\10-02-2014\Ex\Ex\bin\Debug\Ex.pdb
+H:\Etec\C#\10-02-2014\Ex\Ex\obj\x86\Debug\Ex.exe
+H:\Etec\C#\10-02-2014\Ex\Ex\obj\x86\Debug\Ex.pdb
